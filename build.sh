@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#test
 
 bash --version 2>&1 | head -n 1
 
